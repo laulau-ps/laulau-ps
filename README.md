@@ -50,10 +50,9 @@
 <br />
 
 <h2 align="center">📊 Estatísticas do Jardim</h2>
-
 <p align="center"><i>Acompanhe o crescimento das minhas sementes digitais:</i></p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laulau-ps&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulau-ps&hide_border=true&layout=compact&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laulau-ps&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulau-ps&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </div>
