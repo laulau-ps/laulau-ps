@@ -53,6 +53,6 @@
 <p align="center"><i>Acompanhe o crescimento das minhas sementes digitais:</i></p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laulau-ps&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=laulau-ps&show_icons=true&theme=radical&hide_border=true" alt="Estatísticas do GitHub" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laulau-ps&layout=compact&theme=radical&hide_border=true" alt="Linguagens mais usadas" />
 </div>
