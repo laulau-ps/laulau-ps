@@ -43,7 +43,6 @@
   <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" />
-  <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
   <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
 </div>
 
